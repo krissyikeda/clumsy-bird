@@ -26,7 +26,7 @@ grunt connect
 
 Open your browser at `http://localhost:8001/`
 
-## Making your customization
+## Making your customization 
 
 See [CUSTOMIZING](https://github.com/ellisonleao/clumsy-bird/blob/gh-pages/CUSTOMIZING.md)
 
