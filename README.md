@@ -28,6 +28,9 @@ Open your browser at `http://localhost:8001/`
 
 ## Making your customization
 
+clumsy.pgn - Size: 245x50px
+pipe.pgn - Size: 120x1500px
+
 See [CUSTOMIZING](https://github.com/ellisonleao/clumsy-bird/blob/gh-pages/CUSTOMIZING.md)
 
 ## Some nice games made with this project
